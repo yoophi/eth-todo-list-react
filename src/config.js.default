@@ -1,0 +1,2 @@
+export const TODO_LIST_ADDRESS = '0x0'
+export const TODO_LIST_ABI = []
